@@ -3,11 +3,13 @@
 
 - 🌱 I’m currently learning **Artificial Intelligent System**
 
+- 👀 I’m looking to collaborate on Blockchain & A.I. projects
+
 - 💬 Ask me about **Java SpringBoot, Angular2, Firebase**
 
 - 📫 How to reach me **mztang52@gmail.com**
 
-- ⚡ Fun fact **I'm a Bitcoin Maxi**
+- ⚡ Fun fact **I'm a Bitcoin Maxi ₿** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
