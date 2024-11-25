@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **mztang52@gmail.com**
 
-- ⚡ Fun fact **Bitcoin Maxi**
+- ⚡ Fun fact **I'm a Bitcoin Maxi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
