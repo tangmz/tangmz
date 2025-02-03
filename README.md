@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ming Ze Tang</h1>
 <h3 align="center">A passionate Full-Stack developer from Malaysia</h3>
+Follow me on [Medium](https://medium.com/@mztang0428)
 
 - 🌱 I’m currently learning **Artificial Intelligent System**
 
