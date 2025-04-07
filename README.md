@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Full-Stack developer from Malaysia</h3>
 Follow me on [Medium](https://medium.com/@mztang0428)
 
-- 🌱 I’m currently learning **Artificial Intelligent System**
+- 🌱 I’m currently working on **HTN Planning Conversion**
 
 - 👀 I’m looking to collaborate on Blockchain & A.I. projects
 
-- 💬 Ask me about **Java SpringBoot, Angular2, Firebase**
+- 💬 Ask me about **Java SpringBoot, Angular2, Firebase, Gen A.I.**
 
 - 📫 How to reach me **mztang52@gmail.com**
 
@@ -15,6 +15,7 @@ Follow me on [Medium](https://medium.com/@mztang0428)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ming-ze-tang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ming-ze-tang" height="30" width="40" /></a>
+<a href="https://medium.com/@mztang0428" target="blank"><img align="center" src="[https://cdns.iconmonstr.com/wp-content/releases/preview/2018/240/iconmonstr-medium-3.png]" alt="ming-ze-tang" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
