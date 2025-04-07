@@ -6,7 +6,7 @@ Follow me on [Medium](https://medium.com/@mztang0428)
 
 - 👀 I’m looking to collaborate on Blockchain & A.I. projects
 
-- 💬 Ask me about **Java SpringBoot, Angular2, Firebase, Gen A.I.**
+- 💬 Ask me about **Java SpringBoot, Angular2, Firebase, AI/ML**
 
 - 📫 How to reach me **mztang52@gmail.com**
 
