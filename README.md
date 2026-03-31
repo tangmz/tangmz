@@ -2,6 +2,7 @@
 <h3 align="center">A passionate AI/Full-Stack developer from Malaysia</h3>
 
 Download my CV: https://mingzetang.dev
+
 Follow me on [Medium](https://medium.com/@mztang0428)
 
 - 🌱 I’m currently working on **HTN Planning Conversion**
